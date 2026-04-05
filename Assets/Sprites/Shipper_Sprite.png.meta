@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: f9654bc28018f5d4281aee187098328a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1835973637720521866
+    second: Shipper_Sprite_0
+  - first:
+      213: -2599734952645081613
+    second: Shipper_Sprite_1
+  - first:
+      213: -7411220169753756903
+    second: Shipper_Sprite_2
+  - first:
+      213: -5211579612080725844
+    second: Shipper_Sprite_3
+  - first:
+      213: -2405369301338350961
+    second: Shipper_Sprite_4
+  - first:
+      213: -3541534263563345287
+    second: Shipper_Sprite_5
+  - first:
+      213: 7338176835677594902
+    second: Shipper_Sprite_6
+  - first:
+      213: -9149253303174105846
+    second: Shipper_Sprite_7
+  - first:
+      213: 8007120913301672911
+    second: Shipper_Sprite_8
+  - first:
+      213: -9170841578251349438
+    second: Shipper_Sprite_9
+  - first:
+      213: -4973739588599429925
+    second: Shipper_Sprite_10
+  - first:
+      213: 2541872182472702566
+    second: Shipper_Sprite_11
+  - first:
+      213: 2821945431479136197
+    second: Shipper_Sprite_12
+  - first:
+      213: 4972430117259914307
+    second: Shipper_Sprite_13
+  - first:
+      213: -1691529905658346068
+    second: Shipper_Sprite_14
+  - first:
+      213: -2430222161743791055
+    second: Shipper_Sprite_15
+  - first:
+      213: 5338798504825023442
+    second: Shipper_Sprite_16
+  - first:
+      213: 347753023962102758
+    second: Shipper_Sprite_17
+  - first:
+      213: 5651117550524568546
+    second: Shipper_Sprite_18
+  - first:
+      213: 2410466785700582625
+    second: Shipper_Sprite_19
+  - first:
+      213: 5100552539509334290
+    second: Shipper_Sprite_20
+  - first:
+      213: 3666810107488180253
+    second: Shipper_Sprite_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shipper_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1350
+        width: 105
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c305dcb40ba7910800000000000000
+      internalID: 1835973637720521866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1350
+        width: 104
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f54c65a5d2ebebd0800000000000000
+      internalID: -2599734952645081613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1347
+        width: 105
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bfd9d958e062990800000000000000
+      internalID: -7411220169753756903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1350
+        width: 102
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0a24774ffbca7b0800000000000000
+      internalID: -5211579612080725844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1112
+        width: 106
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a19185d596e9ed0800000000000000
+      internalID: -2405369301338350961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1111
+        width: 107
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972ae64e951f9dec0800000000000000
+      internalID: -3541534263563345287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1112
+        width: 106
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6152095e3f076d560800000000000000
+      internalID: 7338176835677594902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1110
+        width: 104
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05fc387892570180800000000000000
+      internalID: -9149253303174105846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 865
+        width: 85
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc392fe0c020f1f60800000000000000
+      internalID: 8007120913301672911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 865
+        width: 89
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24212fc7c20aab080800000000000000
+      internalID: -9170841578251349438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 865
+        width: 86
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4cb38323ab9fab0800000000000000
+      internalID: -4973739588599429925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 865
+        width: 85
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a7bb4584b864320800000000000000
+      internalID: 2541872182472702566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 575
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfa9da2b60992720800000000000000
+      internalID: 2821945431479136197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 583
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c2bb9b8de910540800000000000000
+      internalID: 4972430117259914307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 575
+        width: 92
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5c84e438a7688e0800000000000000
+      internalID: -1691529905658346068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 567
+        width: 91
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cbafbd1dd164ed0800000000000000
+      internalID: -2430222161743791055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 291
+        width: 95
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db6b7734f8371a40800000000000000
+      internalID: 5338798504825023442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 280
+        width: 93
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb34d6688773d400800000000000000
+      internalID: 347753023962102758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 291
+        width: 95
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e31ef6a87dcc6e40800000000000000
+      internalID: 5651117550524568546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 301
+        width: 93
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e49f8835c2b37120800000000000000
+      internalID: 2410466785700582625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 33
+        width: 174
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211aba3c28dc8c640800000000000000
+      internalID: 5100552539509334290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shipper_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 33
+        width: 171
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1815ab7d5023e230800000000000000
+      internalID: 3666810107488180253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shipper_Sprite_0: 1835973637720521866
+      Shipper_Sprite_1: -2599734952645081613
+      Shipper_Sprite_10: -4973739588599429925
+      Shipper_Sprite_11: 2541872182472702566
+      Shipper_Sprite_12: 2821945431479136197
+      Shipper_Sprite_13: 4972430117259914307
+      Shipper_Sprite_14: -1691529905658346068
+      Shipper_Sprite_15: -2430222161743791055
+      Shipper_Sprite_16: 5338798504825023442
+      Shipper_Sprite_17: 347753023962102758
+      Shipper_Sprite_18: 5651117550524568546
+      Shipper_Sprite_19: 2410466785700582625
+      Shipper_Sprite_2: -7411220169753756903
+      Shipper_Sprite_20: 5100552539509334290
+      Shipper_Sprite_21: 3666810107488180253
+      Shipper_Sprite_3: -5211579612080725844
+      Shipper_Sprite_4: -2405369301338350961
+      Shipper_Sprite_5: -3541534263563345287
+      Shipper_Sprite_6: 7338176835677594902
+      Shipper_Sprite_7: -9149253303174105846
+      Shipper_Sprite_8: 8007120913301672911
+      Shipper_Sprite_9: -9170841578251349438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
