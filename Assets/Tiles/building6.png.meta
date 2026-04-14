@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 8c131dd8a6246774d8048152af8b9328
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5052148581440781958
+    second: building6_0
+  - first:
+      213: -3309106933440571753
+    second: building6_1
+  - first:
+      213: -1148334265788837323
+    second: building6_2
+  - first:
+      213: -6297921350183066862
+    second: building6_3
+  - first:
+      213: 4231783833580173634
+    second: building6_4
+  - first:
+      213: -4973647614803663212
+    second: building6_5
+  - first:
+      213: -2202630938287795088
+    second: building6_6
+  - first:
+      213: -1761011063938683442
+    second: building6_7
+  - first:
+      213: 3526319678716812058
+    second: building6_8
+  - first:
+      213: -94562129389754090
+    second: building6_9
+  - first:
+      213: 2493465063003442557
+    second: building6_10
+  - first:
+      213: -4053105261865515481
+    second: building6_11
+  - first:
+      213: 8570602413565842680
+    second: building6_12
+  - first:
+      213: 6893115818709028397
+    second: building6_13
+  - first:
+      213: 1202236220900219703
+    second: building6_14
+  - first:
+      213: -7632883049727808669
+    second: building6_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: building6_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 362
+        width: 361
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a718ab2f1a923e9b0800000000000000
+      internalID: -5052148581440781958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 362
+        width: 345
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7961e74c6c0b312d0800000000000000
+      internalID: -3309106933440571753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 361
+        width: 224
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5325f34c11c4010f0800000000000000
+      internalID: -1148334265788837323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 182
+        width: 178
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2136dfa56e94998a0800000000000000
+      internalID: -6297921350183066862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 181
+        width: 194
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24979c6c9f05aba30800000000000000
+      internalID: 4231783833580173634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 162
+        width: 227
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496a8a988dd0afab0800000000000000
+      internalID: -4973647614803663212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 160
+        width: 91
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0741218e4deae61e0800000000000000
+      internalID: -2202630938287795088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_7
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 158
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecde66084c1af87e0800000000000000
+      internalID: -1761011063938683442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_8
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 159
+        width: 93
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b9266801100f030800000000000000
+      internalID: 3526319678716812058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 479
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619e48c8e3c00bef0800000000000000
+      internalID: -94562129389754090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 11
+        width: 87
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dca2c83419a9220800000000000000
+      internalID: 2493465063003442557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 11
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7264d351d3a70c7c0800000000000000
+      internalID: -4053105261865515481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_12
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 11
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f492b37c75e0f670800000000000000
+      internalID: 8570602413565842680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_13
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 11
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e07c9d05449af50800000000000000
+      internalID: 6893115818709028397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_14
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 11
+        width: 41
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b9dd229733fa010800000000000000
+      internalID: 1202236220900219703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: building6_15
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 11
+        width: 40
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bafd89e4d821690800000000000000
+      internalID: -7632883049727808669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      building6_0: -5052148581440781958
+      building6_1: -3309106933440571753
+      building6_10: 2493465063003442557
+      building6_11: -4053105261865515481
+      building6_12: 8570602413565842680
+      building6_13: 6893115818709028397
+      building6_14: 1202236220900219703
+      building6_15: -7632883049727808669
+      building6_2: -1148334265788837323
+      building6_3: -6297921350183066862
+      building6_4: 4231783833580173634
+      building6_5: -4973647614803663212
+      building6_6: -2202630938287795088
+      building6_7: -1761011063938683442
+      building6_8: 3526319678716812058
+      building6_9: -94562129389754090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

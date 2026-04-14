@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: 753324da8da2f9d448ac556c337b1e97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8211310387124927222
+    second: way1_0
+  - first:
+      213: -4462385877487252651
+    second: way1_1
+  - first:
+      213: -1270649741558124778
+    second: way1_2
+  - first:
+      213: 1470313473798277013
+    second: way1_3
+  - first:
+      213: -4178599185932464955
+    second: way1_4
+  - first:
+      213: 7184659057389292565
+    second: way1_5
+  - first:
+      213: 7724808847494449268
+    second: way1_6
+  - first:
+      213: -4727366345556456162
+    second: way1_7
+  - first:
+      213: -459713743905480419
+    second: way1_8
+  - first:
+      213: -3439113497893330824
+    second: way1_9
+  - first:
+      213: -7735697866227933333
+    second: way1_10
+  - first:
+      213: -7098462603610250080
+    second: way1_11
+  - first:
+      213: 4390185801809423933
+    second: way1_12
+  - first:
+      213: -6062181157043064620
+    second: way1_13
+  - first:
+      213: 1625047392419209089
+    second: way1_14
+  - first:
+      213: 1620934813733632967
+    second: way1_15
+  - first:
+      213: -6770584115865195635
+    second: way1_16
+  - first:
+      213: -6091394762282079799
+    second: way1_17
+  - first:
+      213: 6075497758970093613
+    second: way1_18
+  - first:
+      213: -4022131805066557917
+    second: way1_19
+  - first:
+      213: 8103856879063097441
+    second: way1_20
+  - first:
+      213: -2717227824419503973
+    second: way1_21
+  - first:
+      213: -1292440096612658826
+    second: way1_22
+  - first:
+      213: 2913044921433311896
+    second: way1_23
+  - first:
+      213: 4380786329509222911
+    second: way1_24
+  - first:
+      213: 8883067462176340529
+    second: way1_25
+  - first:
+      213: 3627025481547489345
+    second: way1_26
+  - first:
+      213: 8377092548156787798
+    second: way1_27
+  - first:
+      213: 1623410066368683027
+    second: way1_28
+  - first:
+      213: 5216241717144796923
+    second: way1_29
+  - first:
+      213: -8616564207774657461
+    second: way1_30
+  - first:
+      213: 3902175855306351255
+    second: way1_31
+  - first:
+      213: -7121071686960301906
+    second: way1_32
+  - first:
+      213: 1590080714051792020
+    second: way1_33
+  - first:
+      213: -9112421066480868279
+    second: way1_34
+  - first:
+      213: 1923604788109390584
+    second: way1_35
+  - first:
+      213: 2982346231945593653
+    second: way1_36
+  - first:
+      213: -6664250478563066898
+    second: way1_37
+  - first:
+      213: 3225850295870907032
+    second: way1_38
+  - first:
+      213: -5572991758973832557
+    second: way1_39
+  - first:
+      213: -4230595324395020092
+    second: way1_40
+  - first:
+      213: -5341159054192766629
+    second: way1_41
+  - first:
+      213: 9065182639654185233
+    second: way1_42
+  - first:
+      213: -6775576547125837092
+    second: way1_43
+  - first:
+      213: -8184703393077298543
+    second: way1_44
+  - first:
+      213: -6426749208337329728
+    second: way1_45
+  - first:
+      213: 7708097526458456937
+    second: way1_46
+  - first:
+      213: 5164778490858266875
+    second: way1_47
+  - first:
+      213: -2201996702375046356
+    second: way1_48
+  - first:
+      213: 9048941511346414217
+    second: way1_49
+  - first:
+      213: 1158563023919525806
+    second: way1_50
+  - first:
+      213: 2731216381344398967
+    second: way1_51
+  - first:
+      213: -6333006620300944648
+    second: way1_52
+  - first:
+      213: -3910838068824972044
+    second: way1_53
+  - first:
+      213: 1622933776686472873
+    second: way1_54
+  - first:
+      213: 5599038781117294836
+    second: way1_55
+  - first:
+      213: 3624128583251247294
+    second: way1_56
+  - first:
+      213: -1640227063413537349
+    second: way1_57
+  - first:
+      213: -1830590969276571622
+    second: way1_58
+  - first:
+      213: 7523597161348190359
+    second: way1_59
+  - first:
+      213: -8940009961030679395
+    second: way1_60
+  - first:
+      213: 1679665984362924353
+    second: way1_61
+  - first:
+      213: 734976696776170279
+    second: way1_62
+  - first:
+      213: 3330518466378321685
+    second: way1_63
+  - first:
+      213: 6598265422985132716
+    second: way1_64
+  - first:
+      213: 1124645892621728984
+    second: way1_65
+  - first:
+      213: -4403949794834441843
+    second: way1_66
+  - first:
+      213: -7805405334894278599
+    second: way1_67
+  - first:
+      213: -6167189134770785045
+    second: way1_68
+  - first:
+      213: 1503298125914154369
+    second: way1_69
+  - first:
+      213: 5115849822716040704
+    second: way1_70
+  - first:
+      213: 3599342498541545172
+    second: way1_71
+  - first:
+      213: 2467810551001223940
+    second: way1_72
+  - first:
+      213: 3291606159631281707
+    second: way1_73
+  - first:
+      213: 6678676163694526359
+    second: way1_74
+  - first:
+      213: -254150448406458325
+    second: way1_75
+  - first:
+      213: 8900395203129402415
+    second: way1_76
+  - first:
+      213: 6081477957511340776
+    second: way1_77
+  - first:
+      213: 8970696948354657498
+    second: way1_78
+  - first:
+      213: 8763337841363108879
+    second: way1_79
+  - first:
+      213: 1364075114633436383
+    second: way1_80
+  - first:
+      213: -792087604446147476
+    second: way1_81
+  - first:
+      213: 4478642659873234789
+    second: way1_82
+  - first:
+      213: 5032175550100465147
+    second: way1_83
+  - first:
+      213: -6638660409550592803
+    second: way1_84
+  - first:
+      213: -7568122916063289842
+    second: way1_85
+  - first:
+      213: -4168761825416251332
+    second: way1_86
+  - first:
+      213: -28077769925906106
+    second: way1_87
+  - first:
+      213: -5559806094495612474
+    second: way1_88
+  - first:
+      213: 2046430211919924602
+    second: way1_89
+  - first:
+      213: 4087687268826786670
+    second: way1_90
+  - first:
+      213: 1450422906031499061
+    second: way1_91
+  - first:
+      213: 4380712737745538381
+    second: way1_92
+  - first:
+      213: 7526452661868472028
+    second: way1_93
+  - first:
+      213: -8502355543418291725
+    second: way1_94
+  - first:
+      213: -2265500260911391382
+    second: way1_95
+  - first:
+      213: -1799679642790923690
+    second: way1_96
+  - first:
+      213: 7407748268881497047
+    second: way1_97
+  - first:
+      213: -4365958342933572237
+    second: way1_98
+  - first:
+      213: 6985030129186356338
+    second: way1_99
+  - first:
+      213: -3968597474597292217
+    second: way1_100
+  - first:
+      213: 1385683300282900482
+    second: way1_101
+  - first:
+      213: 9103775468933803119
+    second: way1_102
+  - first:
+      213: -3696908251852729452
+    second: way1_103
+  - first:
+      213: 8846518057646788816
+    second: way1_104
+  - first:
+      213: 6600223423761605216
+    second: way1_105
+  - first:
+      213: 1872460117213041867
+    second: way1_106
+  - first:
+      213: 4757829155532168496
+    second: way1_107
+  - first:
+      213: -8609761023849023353
+    second: way1_108
+  - first:
+      213: -5175698304357737168
+    second: way1_109
+  - first:
+      213: -5713585214398873313
+    second: way1_110
+  - first:
+      213: 1323312599164539760
+    second: way1_111
+  - first:
+      213: -3934229969215609572
+    second: way1_112
+  - first:
+      213: -5178785967173307021
+    second: way1_113
+  - first:
+      213: -4319343897418852269
+    second: way1_114
+  - first:
+      213: -373499604650134747
+    second: way1_115
+  - first:
+      213: 6215232332498922553
+    second: way1_116
+  - first:
+      213: 4897338682132366624
+    second: way1_117
+  - first:
+      213: 1871491844699628727
+    second: way1_118
+  - first:
+      213: -161604084903923594
+    second: way1_119
+  - first:
+      213: 3796747850063884187
+    second: way1_120
+  - first:
+      213: 6922426753272877306
+    second: way1_121
+  - first:
+      213: -4610257134710830635
+    second: way1_122
+  - first:
+      213: 8207802296678075899
+    second: way1_123
+  - first:
+      213: -3410626460789790741
+    second: way1_124
+  - first:
+      213: -9062162916641913472
+    second: way1_125
+  - first:
+      213: 3040839960645587119
+    second: way1_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: way1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 931
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa7e0daa4f64f170800000000000000
+      internalID: 8211310387124927222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 931
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b07a9efab6212c0800000000000000
+      internalID: -4462385877487252651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 931
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f6c70dacebd5ee0800000000000000
+      internalID: -1270649741558124778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 931
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597873a705a976410800000000000000
+      internalID: 1470313473798277013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 931
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc42c7fd22a206c0800000000000000
+      internalID: -4178599185932464955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_5
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 931
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c4bf3c85905b360800000000000000
+      internalID: 7184659057389292565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 931
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47883b018b8043b60800000000000000
+      internalID: 7724808847494449268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_7
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 931
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d88f9fa55056eb0800000000000000
+      internalID: -4727366345556456162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 933
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11262c19c4ce99f0800000000000000
+      internalID: -459713743905480419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_9
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 935
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87021dfae70d540d0800000000000000
+      internalID: -3439113497893330824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_10
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 938
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f9cb1b6c745a490800000000000000
+      internalID: -7735697866227933333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_11
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 942
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4aa6c0fd13d7d90800000000000000
+      internalID: -7098462603610250080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_12
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 936
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e60def9b21dec30800000000000000
+      internalID: 4390185801809423933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_13
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 934
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0b1624b5ecedba0800000000000000
+      internalID: -6062181157043064620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 829
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f52585ef35d8610800000000000000
+      internalID: 1625047392419209089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 829
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb38a000a7be7610800000000000000
+      internalID: 1620934813733632967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 829
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8be3f36e9d0a02a0800000000000000
+      internalID: -6770584115865195635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_17
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 829
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9608fbcb4077ba0800000000000000
+      internalID: -6091394762282079799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_18
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 829
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20281db501805450800000000000000
+      internalID: 6075497758970093613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_19
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 829
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3260537fe648e28c0800000000000000
+      internalID: -4022131805066557917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_20
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 829
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160692b35eea67070800000000000000
+      internalID: 8103856879063097441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_21
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 829
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b900bafa0b77a4ad0800000000000000
+      internalID: -2717227824419503973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_22
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 847
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6715eeb6494501ee0800000000000000
+      internalID: -1292440096612658826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 859
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ac9cc0ce63d6820800000000000000
+      internalID: 2913044921433311896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_24
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 866
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9d84fc4fdabcc30800000000000000
+      internalID: 4380786329509222911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_25
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 832
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13af9d6dacef64b70800000000000000
+      internalID: 8883067462176340529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_26
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 864
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140adea6578c55230800000000000000
+      internalID: 3627025481547489345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_27
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 854
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c057fe949614470800000000000000
+      internalID: 8377092548156787798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_28
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 835
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cd2baaad2878610800000000000000
+      internalID: 1623410066368683027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_29
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 839
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe3df47430d36840800000000000000
+      internalID: 5216241717144796923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_30
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 836
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b441f3b6180db6880800000000000000
+      internalID: -8616564207774657461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_31
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 836
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79224aa0440572630800000000000000
+      internalID: 3902175855306351255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 727
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b3ae970fdc2d90800000000000000
+      internalID: -7121071686960301906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 727
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ca14d1cf9111610800000000000000
+      internalID: 1590080714051792020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 727
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442f98d15d2a8180800000000000000
+      internalID: -9112421066480868279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 727
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f23083fc5402ba10800000000000000
+      internalID: 1923604788109390584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_36
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 727
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5338758c81c636920800000000000000
+      internalID: 2982346231945593653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_37
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 727
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb750b9f73d383a0800000000000000
+      internalID: -6664250478563066898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_38
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 727
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89269f7b0c584cc20800000000000000
+      internalID: 3225850295870907032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_39
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 731
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3927f2ea581c8a2b0800000000000000
+      internalID: -5572991758973832557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_40
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 729
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0a10597f7e945c0800000000000000
+      internalID: -4230595324395020092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_41
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 731
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b519afd832460e5b0800000000000000
+      internalID: -5341159054192766629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_42
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 730
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11920a4d49ffdcd70800000000000000
+      internalID: 9065182639654185233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_43
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 729
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2c818670158f1a0800000000000000
+      internalID: -6775576547125837092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 624
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a71bfd0a71a6e80800000000000000
+      internalID: -8184703393077298543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 624
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1d78835a99fc6a0800000000000000
+      internalID: -6426749208337329728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 624
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b9f9e6cd9a8fa60800000000000000
+      internalID: 7708097526458456937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_47
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 624
+        width: 29
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf06f2b5caafca740800000000000000
+      internalID: 5164778490858266875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_48
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 640
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c239a567aafe071e0800000000000000
+      internalID: -2201996702375046356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_49
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 520
+        width: 16
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982e6197c5c449d70800000000000000
+      internalID: 9048941511346414217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_50
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 641
+        width: 17
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf20a29eea041010800000000000000
+      internalID: 1158563023919525806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_51
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 663
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb2c604da37e520800000000000000
+      internalID: 2731216381344398967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_52
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 624
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fad3c45804ac18a0800000000000000
+      internalID: -6333006620300944648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_53
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 663
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4ec953f79e9b9c0800000000000000
+      internalID: -3910838068824972044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_54
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 624
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae5165dba1d58610800000000000000
+      internalID: 1622933776686472873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_55
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 624
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e1204b18c3bd40800000000000000
+      internalID: 5599038781117294836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_56
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 624
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0c709bebd7b4230800000000000000
+      internalID: 3624128583251247294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_57
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 624
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb501461d2ebc39e0800000000000000
+      internalID: -1640227063413537349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_58
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 624
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a106b3b563f6896e0800000000000000
+      internalID: -1830590969276571622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_59
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 624
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790db4ba1cf296860800000000000000
+      internalID: 7523597161348190359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 520
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9400508e44bee380800000000000000
+      internalID: -8940009961030679395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 520
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1494243405f5f4710800000000000000
+      internalID: 1679665984362924353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_62
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 519
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b98816969233a00800000000000000
+      internalID: 734976696776170279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_63
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 519
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fcb5a36e0683e20800000000000000
+      internalID: 3330518466378321685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_64
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 520
+        width: 16
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa75ce617fb19b50800000000000000
+      internalID: 6598265422985132716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_65
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 520
+        width: 19
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcf1df0b7b8b9f00800000000000000
+      internalID: 1124645892621728984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_66
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 552
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d891d36aef602e2c0800000000000000
+      internalID: -4403949794834441843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_67
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 519
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93800b5e331ada390800000000000000
+      internalID: -7805405334894278599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_68
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 519
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4b657382eb96aa0800000000000000
+      internalID: -6167189134770785045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_69
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 519
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185af924ea9ccd410800000000000000
+      internalID: 1503298125914154369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_70
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 518
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0061c3f0f462ff640800000000000000
+      internalID: 5115849822716040704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_71
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 519
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6298aaeee63f130800000000000000
+      internalID: 3599342498541545172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 415
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40393610f9c6f3220800000000000000
+      internalID: 2467810551001223940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 415
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e6f4dcc522ead20800000000000000
+      internalID: 3291606159631281707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_74
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 414
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f71e2f59c6fac50800000000000000
+      internalID: 6678676163694526359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_75
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 414
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b201a338383197cf0800000000000000
+      internalID: -254150448406458325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_76
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 414
+        width: 16
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f246e1be74e848b70800000000000000
+      internalID: 8900395203129402415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_77
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 414
+        width: 20
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2e4d63bffb56450800000000000000
+      internalID: 6081477957511340776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_78
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 414
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc2c5288515e7c70800000000000000
+      internalID: 8970696948354657498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_79
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 413
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04cf292651ad9970800000000000000
+      internalID: 8763337841363108879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_80
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 412
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc1daee61b2ee210800000000000000
+      internalID: 1364075114633436383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_81
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 412
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c4ff93580f105f0800000000000000
+      internalID: -792087604446147476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_82
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 413
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f97a135c5572e30800000000000000
+      internalID: 4478642659873234789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 310
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5e42f4001e5d540800000000000000
+      internalID: 5032175550100465147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_84
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 310
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4a948d78dbed3a0800000000000000
+      internalID: -6638660409550592803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 310
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0edd833e40a8f690800000000000000
+      internalID: -7568122916063289842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_86
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 311
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38fad2f4359526c0800000000000000
+      internalID: -4168761825416251332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_87
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 308
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6413b71ca6f3c9ff0800000000000000
+      internalID: -28077769925906106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_88
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 311
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1898d60d997d2b0800000000000000
+      internalID: -5559806094495612474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_89
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 310
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d4d1f6f61666c10800000000000000
+      internalID: 2046430211919924602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_90
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 320
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bae4bd9e16ab830800000000000000
+      internalID: 4087687268826786670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_91
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 320
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537e818c2ffe02410800000000000000
+      internalID: 1450422906031499061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_92
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 320
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d0a54660b6bcc30800000000000000
+      internalID: 4380712737745538381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_93
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 205
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a671b1d4537860800000000000000
+      internalID: 7526452661868472028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_94
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 205
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9ba704ea0910a80800000000000000
+      internalID: -8502355543418291725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_95
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 206
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d52dd04835f80e0800000000000000
+      internalID: -2265500260911391382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_96
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 206
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652f1f566e04607e0800000000000000
+      internalID: -1799679642790923690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_97
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 203
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db42387dcb9dc660800000000000000
+      internalID: 7407748268881497047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_98
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 204
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3759a49d4000963c0800000000000000
+      internalID: -4365958342933572237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_99
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 216
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cbd8be4efcfe060800000000000000
+      internalID: 6985030129186356338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_100
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 207
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747bd169f95bce8c0800000000000000
+      internalID: -3968597474597292217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_101
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 216
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200ad84be9fea3310800000000000000
+      internalID: 1385683300282900482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_102
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 216
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ce6bc1e8b175e70800000000000000
+      internalID: 9103775468933803119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_103
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 121
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4939b113881f1bcc0800000000000000
+      internalID: -3696908251852729452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_104
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 121
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d09d157d4525ca70800000000000000
+      internalID: 8846518057646788816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_105
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 114
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062e5830c34b89b50800000000000000
+      internalID: 6600223423761605216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_106
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 112
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4d19e4e805cf910800000000000000
+      internalID: 1872460117213041867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_107
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 143
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ddd7da864370240800000000000000
+      internalID: 4757829155532168496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_108
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 109
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788b97c17fbf38880800000000000000
+      internalID: -8609761023849023353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 114
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d5a2070d93c28b0800000000000000
+      internalID: -5175698304357737168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_110
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 115
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11c4d5f48445b0b0800000000000000
+      internalID: -5713585214398873313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_111
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 112
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07350083cc95d5210800000000000000
+      internalID: 1323312599164539760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_112
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 112
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15253cffaec669c0800000000000000
+      internalID: -3934229969215609572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_113
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 105
+        width: 86
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3757bdae9914128b0800000000000000
+      internalID: -5178785967173307021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_114
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35819933c9b9e04c0800000000000000
+      internalID: -4319343897418852269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_115
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5237415a61011daf0800000000000000
+      internalID: -373499604650134747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_116
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 13
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cee1f60e0f04650800000000000000
+      internalID: 6215232332498922553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_117
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 18
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025874d8597d6f340800000000000000
+      internalID: 4897338682132366624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_118
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 16
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4ac5bcaefd8f910800000000000000
+      internalID: 1871491844699628727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_119
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 32
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670bc05e0fdd1cdf0800000000000000
+      internalID: -161604084903923594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_120
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 8
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f29c8bd02c0b430800000000000000
+      internalID: 3796747850063884187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_121
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 20
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af09d7c9476611060800000000000000
+      internalID: 6922426753272877306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_122
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 20
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9c95aef831500c0800000000000000
+      internalID: -4610257134710830635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_123
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 22
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdc128b3b8f7e170800000000000000
+      internalID: 8207802296678075899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_124
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 18
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7a31fdd450ba0d0800000000000000
+      internalID: -3410626460789790741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_125
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08547d837dabc3280800000000000000
+      internalID: -9062162916641913472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: way1_126
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0d71945db333a20800000000000000
+      internalID: 3040839960645587119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      way1_0: 8211310387124927222
+      way1_1: -4462385877487252651
+      way1_10: -7735697866227933333
+      way1_100: -3968597474597292217
+      way1_101: 1385683300282900482
+      way1_102: 9103775468933803119
+      way1_103: -3696908251852729452
+      way1_104: 8846518057646788816
+      way1_105: 6600223423761605216
+      way1_106: 1872460117213041867
+      way1_107: 4757829155532168496
+      way1_108: -8609761023849023353
+      way1_109: -5175698304357737168
+      way1_11: -7098462603610250080
+      way1_110: -5713585214398873313
+      way1_111: 1323312599164539760
+      way1_112: -3934229969215609572
+      way1_113: -5178785967173307021
+      way1_114: -4319343897418852269
+      way1_115: -373499604650134747
+      way1_116: 6215232332498922553
+      way1_117: 4897338682132366624
+      way1_118: 1871491844699628727
+      way1_119: -161604084903923594
+      way1_12: 4390185801809423933
+      way1_120: 3796747850063884187
+      way1_121: 6922426753272877306
+      way1_122: -4610257134710830635
+      way1_123: 8207802296678075899
+      way1_124: -3410626460789790741
+      way1_125: -9062162916641913472
+      way1_126: 3040839960645587119
+      way1_13: -6062181157043064620
+      way1_14: 1625047392419209089
+      way1_15: 1620934813733632967
+      way1_16: -6770584115865195635
+      way1_17: -6091394762282079799
+      way1_18: 6075497758970093613
+      way1_19: -4022131805066557917
+      way1_2: -1270649741558124778
+      way1_20: 8103856879063097441
+      way1_21: -2717227824419503973
+      way1_22: -1292440096612658826
+      way1_23: 2913044921433311896
+      way1_24: 4380786329509222911
+      way1_25: 8883067462176340529
+      way1_26: 3627025481547489345
+      way1_27: 8377092548156787798
+      way1_28: 1623410066368683027
+      way1_29: 5216241717144796923
+      way1_3: 1470313473798277013
+      way1_30: -8616564207774657461
+      way1_31: 3902175855306351255
+      way1_32: -7121071686960301906
+      way1_33: 1590080714051792020
+      way1_34: -9112421066480868279
+      way1_35: 1923604788109390584
+      way1_36: 2982346231945593653
+      way1_37: -6664250478563066898
+      way1_38: 3225850295870907032
+      way1_39: -5572991758973832557
+      way1_4: -4178599185932464955
+      way1_40: -4230595324395020092
+      way1_41: -5341159054192766629
+      way1_42: 9065182639654185233
+      way1_43: -6775576547125837092
+      way1_44: -8184703393077298543
+      way1_45: -6426749208337329728
+      way1_46: 7708097526458456937
+      way1_47: 5164778490858266875
+      way1_48: -2201996702375046356
+      way1_49: 9048941511346414217
+      way1_5: 7184659057389292565
+      way1_50: 1158563023919525806
+      way1_51: 2731216381344398967
+      way1_52: -6333006620300944648
+      way1_53: -3910838068824972044
+      way1_54: 1622933776686472873
+      way1_55: 5599038781117294836
+      way1_56: 3624128583251247294
+      way1_57: -1640227063413537349
+      way1_58: -1830590969276571622
+      way1_59: 7523597161348190359
+      way1_6: 7724808847494449268
+      way1_60: -8940009961030679395
+      way1_61: 1679665984362924353
+      way1_62: 734976696776170279
+      way1_63: 3330518466378321685
+      way1_64: 6598265422985132716
+      way1_65: 1124645892621728984
+      way1_66: -4403949794834441843
+      way1_67: -7805405334894278599
+      way1_68: -6167189134770785045
+      way1_69: 1503298125914154369
+      way1_7: -4727366345556456162
+      way1_70: 5115849822716040704
+      way1_71: 3599342498541545172
+      way1_72: 2467810551001223940
+      way1_73: 3291606159631281707
+      way1_74: 6678676163694526359
+      way1_75: -254150448406458325
+      way1_76: 8900395203129402415
+      way1_77: 6081477957511340776
+      way1_78: 8970696948354657498
+      way1_79: 8763337841363108879
+      way1_8: -459713743905480419
+      way1_80: 1364075114633436383
+      way1_81: -792087604446147476
+      way1_82: 4478642659873234789
+      way1_83: 5032175550100465147
+      way1_84: -6638660409550592803
+      way1_85: -7568122916063289842
+      way1_86: -4168761825416251332
+      way1_87: -28077769925906106
+      way1_88: -5559806094495612474
+      way1_89: 2046430211919924602
+      way1_9: -3439113497893330824
+      way1_90: 4087687268826786670
+      way1_91: 1450422906031499061
+      way1_92: 4380712737745538381
+      way1_93: 7526452661868472028
+      way1_94: -8502355543418291725
+      way1_95: -2265500260911391382
+      way1_96: -1799679642790923690
+      way1_97: 7407748268881497047
+      way1_98: -4365958342933572237
+      way1_99: 6985030129186356338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
