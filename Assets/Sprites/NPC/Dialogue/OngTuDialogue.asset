@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e018fab30cc3ec49b6af0a078b0cce8, type: 3}
+  m_Name: OngTuDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: "\xD4ng T\u01B0 Th\xEDch C\u1EDD"
+  npcPortrait: {fileID: 8718860656501071534, guid: 09c25d8e4a0f98e44b7dded6b367d938, type: 3}
+  dialogueLines:
+  - "Ch\xE0ng trai tr\u1EBB"
+  - "Mua gi\xFAp \xF4ng v\xE0 b\u1EA1n gi\xE0 n\xE0y \xEDt \u0111\u1ED3 nh\xE1"
+  - "C\u1EA3m \u01A1n c\u1EADu, c\u1EADu th\u1EADt l\xE0 t\u1ED1t b\u1EE5ng"
+  - "Cho 2 th\xE2n gi\xE0 n\xE0y \u0103n s\u1EDBm nha c\u1EADu"
+  - "Kh\xF4ng sao \u0111\xE2u!"
+  - "\u0110\u1EC3 ch\xFAng t\xF4i \u0111\u1EA5u coi ai thua ng\u01B0\u1EDDi \u0111\xF3
+    \u0111i mua"
+  - "Hai th\xE2n gi\xE0 \u0111ang \u0111\u1EE3i c\u1EADu \u0111\xE2y"
+  - "H\xEAn qu\xE1, c\u1EADu v\u1EC1 k\u1ECBp ch\u1EE9 kh\xF4ng l\xE0 t\xF4i cho
+    c\u1EADu \u0103n c\u1EDD r\u1ED3i"
+  - "Ti\u1EC1n \u0111\xE2y c\u1EADu nh\xE1"
+  autoProgressLines: 010001000100000100
+  endDialogueLines: 000000010001010001
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 72b14f32c0d70fa478dcd823b47b1c79, type: 3}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 1
+    choices:
+    - "Ch\u1EA5p nh\u1EADn"
+    - "T\u1EEB ch\u1ED1i"
+    nextDialogueIndexes: 0200000004000000
+    givesQuest: 0100
+  questInProgressIndex: 6
+  questCompletedIndex: 7
+  quest: {fileID: 11400000, guid: d7dae39f2a3f63a46880e4b36320dd9c, type: 2}

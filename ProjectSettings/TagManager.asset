@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Bike
+  - PlayerWithBike
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -13,7 +16,7 @@ TagManager:
   - UI
   - Player
   - Bike
-  - 
+  - MinimapIcon
   - 
   - 
   - 
@@ -46,6 +49,9 @@ TagManager:
     locked: 0
   - name: Walk Infront
     uniqueID: 2915370853
+    locked: 0
+  - name: Obstacles
+    uniqueID: 633384551
     locked: 0
   - name: Building
     uniqueID: 4275831521

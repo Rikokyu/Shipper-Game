@@ -15,9 +15,11 @@ GameObject:
   - component: {fileID: 6334011616491432229}
   - component: {fileID: 6293380061224140625}
   - component: {fileID: 665409661478969548}
-  m_Layer: 0
+  - component: {fileID: 9121096085057957784}
+  - component: {fileID: 7823514682227170604}
+  m_Layer: 6
   m_Name: PlayerWithBike
-  m_TagString: Untagged
+  m_TagString: PlayerWithBike
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31,7 +33,7 @@ Transform:
   m_GameObject: {fileID: 6637471363665305369}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.55, y: 0.61, z: 0}
+  m_LocalPosition: {x: 0.18, y: 0.07, z: 0}
   m_LocalScale: {x: 0.70088845, y: 0.70088845, z: 0.70088845}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -83,7 +85,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -403492997
-  m_SortingLayer: 6
+  m_SortingLayer: 7
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 58799347, guid: af910bb99d1f698488445ca0dde4e35b, type: 3}
@@ -158,7 +160,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!95 &6334011616491432229
 Animator:
@@ -209,8 +211,8 @@ MonoBehaviour:
   m_ActionEvents:
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
+      - m_Target: {fileID: 9121096085057957784}
+        m_TargetAssemblyTypeName: PlayerRideMovement, Assembly-CSharp
         m_MethodName: Move
         m_Mode: 0
         m_Arguments:
@@ -322,3 +324,36 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 2.8835976, y: 0.8818325}
   m_EdgeRadius: 0
+--- !u!114 &9121096085057957784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6637471363665305369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4831f04a6ee38fd459c8695902459467, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerRideMovement
+  moveSpeed: 10
+  playingRideSound: 0
+  rideSoundSpeed: 0.5
+--- !u!114 &7823514682227170604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6637471363665305369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 074903a4e85e6a14badb04c0a2fd0cfa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerBikeExit
+  player: {fileID: 0}
+  bike: {fileID: 0}
+  playerWithBike: {fileID: 6637471363665305369}
+  enterButton: {fileID: 0}
+  buttonFollower: {fileID: 0}
+  cameraSwitcher: {fileID: 0}

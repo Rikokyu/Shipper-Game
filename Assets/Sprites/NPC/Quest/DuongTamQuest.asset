@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 061694b88910b874c870cd1b6c131d74, type: 3}
+  m_Name: DuongTamQuest
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questID: C90546068-09e4-423d-985f-58d1ec59d300
+  questName: "Mua \u0110\u1ED3 Cho D\u01B0\u01A1ng T\xE1m"
+  description: "Shipper \u0110\u1ED3 Cho D\u01B0\u1EE3ng T\xE1m"
+  objectives:
+  - objectiveID: 5
+    description: "3 b\xEC cu\u1ED1n"
+    type: 0
+    requiredAmount: 3
+    currentAmount: 0
+  - objectiveID: 15
+    description: "1 tr\xE0 \u0111\xE1"
+    type: 0
+    requiredAmount: 2
+    currentAmount: 0
+  - objectiveID: 17
+    description: "2 cu\u1ED1n v\u1EDF"
+    type: 0
+    requiredAmount: 2
+    currentAmount: 0
+  questRewards:
+  - type: 0
+    rewardID: 19
+    amount: 2
