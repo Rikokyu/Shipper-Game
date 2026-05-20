@@ -1,5 +1,3 @@
-readme_updated_content = """# 🛵 Shipper Simulator: Đơn Hàng Tử Thần
-
 **Shipper Simulator: Đơn Hàng Tử Thần** là một dự án game 2D top-down lấy bối cảnh đường phố Việt Nam đầy sống động và thử thách. Trong game, người chơi sẽ hóa thân thành một shipper thực thụ, đối mặt với các nhiệm vụ giao hàng chạy đua với thời gian, đồng thời phải né tránh vô vàn chướng ngại vật "bá đạo" mang đậm tính chất meme và đời sống thực tế tại Việt Nam.
 
 ---
