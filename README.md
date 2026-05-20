@@ -51,7 +51,6 @@ Hệ thống nút bấm tương tác trong game được cấu hình thiết l�
 | Thao tác hành động | Phím bấm điều khiển |
 | :--- | :--- |
 | **Di chuyển lên / xuống / qua / lại** | Phím `W`, `A`, `S`, `D` hoặc các phím Mũi tên (`↑`, `↓`, `←`, `→`) |
-| **Tăng tốc (Bốc đầu xe)** | Phím `Space` |
 | **Tương tác (Nhận / Lấy / Giao hàng)** | Phím `E` (Khi tiếp cận NPC hoặc điểm đích) |
 | **Lên xe / Xuống xe** | Phím `F` |
 | **Màn hình dừng (Pause Menu)** | Phím `Tab` |
@@ -67,3 +66,18 @@ Hệ thống nút bấm tương tác trong game được cấu hình thiết l�
 
 ### Dành cho Nhà phát triển (Source Code)
 1. Tiến hành clone project về máy cá nhân:
+git clone https://github.com/Rikokyu/Shipper-Game.git
+2. Khởi động ứng dụng **Unity Hub**, chọn **Add project từ thư mục** và trỏ tới thư mục chứa source code vừa tải.
+3. Sử dụng phiên bản **Unity 2022.3 LTS** (hoặc bản tương thích) để mở dự án và tự động đồng bộ hóa các package thiết lập `Tilemap`, `Physics2D` và `UI Canvas`.
+
+---
+
+## 👥 Danh sách thành viên & Phân công nhiệm vụ
+
+Dự án được thực hiện toàn diện bởi các thành viên với phân mục thiết kế cụ thể:
+
+* **Nguyễn Trung Hiệp** (MSSV: `2312610`)
+    * *Phân công nhiệm vụ:* Quản lý và lập trình logic cho **Player**, Hệ thống nhiệm vụ đơn hàng (**Quest**), Hệ thống vật phẩm cứu trợ (**Item**), và Cửa hàng giao dịch (**Shop**).
+
+* **Nguyễn Lê Anh Tuấn** (MSSV: `230003`)
+    * *Phân công nhiệm vụ:* Thiết kế xây dựng bản đồ ô gạch (**Map**), Thiết kế và tối ưu cấu trúc giao diện người dùng (**UI menu**), Thiết kế Màn hình điều khiển trung tâm (**MainMenu**).
