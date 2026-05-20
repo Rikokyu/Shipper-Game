@@ -122,5 +122,5 @@ Dự án được thực hiện toàn diện bởi các thành viên với phân
 * **Nguyễn Trung Hiệp** (MSSV: `2312610`)
     * *Phân công nhiệm vụ:* Quản lý và lập trình logic cho **Player**, Hệ thống nhiệm vụ đơn hàng (**Quest**), Hệ thống vật phẩm cứu trợ (**Item**), và Cửa hàng giao dịch (**Shop**).
 
-* **Nguyễn Lê Anh Tuấn** (MSSV: `230003`)
+* **Nguyễn Lê Anh Tuấn** (MSSV: `2300003`)
     * *Phân công nhiệm vụ:* Thiết kế xây dựng bản đồ ô gạch (**Map**), Thiết kế và tối ưu cấu trúc giao diện người dùng (**UI menu**), Thiết kế Màn hình điều khiển trung tâm (**MainMenu**).
