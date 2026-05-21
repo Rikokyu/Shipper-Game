@@ -38,7 +38,7 @@ Hệ thống mã nguồn và cấu trúc asset của trò chơi được xây d�
 
 ### 1. Giao diện & Hệ thống Menu điều khiển
 * **Màn hình MainMenu (`Screenshot 2026-05-11 143036.png`)**
-  ![Màn hình MainMenu](Screenshots/Screenshot%2026-05-21%111449.png)
+  ![Màn hình MainMenu](Screenshot%2026-05-21%111449.png)
   *Các nút bấm cho MainMenu.*
 
 * **Màn hình thông tin thành viên phát triển (`Screenshot 2026-05-11 143036.png`)**
