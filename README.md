@@ -37,58 +37,54 @@ Hệ thống mã nguồn và cấu trúc asset của trò chơi được xây d�
 Để người xem dễ dàng hình dung quy mô và các tính năng của dự án, dưới đây là toàn bộ danh sách hình ảnh thực tế được trích xuất trực tiếp từ bản build của trò chơi:
 
 ### 1. Giao diện & Hệ thống Menu điều khiển
-* **Màn hình MainMenu (`Screenshot 2026-05-11 143036.png`)**
-  ![Màn hình MainMenu](Screenshot%2026-05-21%111449.png)
-  *Các nút bấm cho MainMenu.*
+* **Màn hình MainMenu (`ManHinhMainMenu.png`)**
+  ![Màn hình MainMenu](Screenshot/ManHinhMainMenu.png)
+  *Giao diện chính của trò chơi với các tùy chọn Chơi, Cài đặt và Thoát.*
 
-* **Màn hình thông tin thành viên phát triển (`Screenshot 2026-05-11 143036.png`)**
-  ![Thông tin thành viên](Screenshots/Screenshot%202026-05-11%20143036.png)
-  *Bảng Pop-up hiển thị danh sách thành viên thực hiện dự án và phân chia chi tiết các module lập trình.*
+* **Màn hình cài đặt hệ thống (`GiaoDienSettings.png`)**
+  ![Màn hình Cài đặt](Screenshot/GiaoDienSettings.png)
+  *Bảng tùy chỉnh cấu hình, âm lượng và các thiết lập trong trò chơi.*
 
-* **Bảng hướng dẫn cách chơi và nút bấm tương tác (`Screenshot 2026-05-20 083438.png`)**
-  ![Hướng dẫn cách chơi](Screenshots/Screenshot%202026-05-20%20083438.png)
+* **Bảng hướng dẫn cách chơi và nút bấm tương tác (`HuongDanChoi.png`)**
+  ![Hướng dẫn cách chơi](Screenshot/HuongDanChoi.png)
   *Giao diện hướng dẫn chi tiết các phím chức năng điều khiển Shipper (WASD, Space, E, F, Tab).*
 
 ---
 
-### 2. Thiết kế Bản đồ Đô thị & Chướng ngại vật (Gameplay Map)
-* **Góc phố đô thị số 1 - Khu dân cư (`Screenshot 2026-05-20 085224.png`)**
-  ![Khu dân cư](Screenshots/Screenshot%202026-05-20%20085224.png)
-  *Hình ảnh lát cắt một phần bản đồ thành phố với hệ thống vỉa hè gạch đỏ, lòng đường và các dãy nhà cao tầng.*
+### 2. Thiết kế Bản đồ Đô thị & Cơ chế Gameplay
+* **Màn hình vào game - Giao lộ đường phố (`ManHinhJoinGame.png`)**
+  ![Màn hình Join Game](Screenshot/ManHinhJoinGame.png)
+  *Góc nhìn từ trên xuống khi bắt đầu vào màn chơi chính với hệ thống đường sá đô thị.*
 
-* **Góc phố đô thị số 2 - Hàng quán vỉa hè (`Screenshot 2026-05-20 085247.png`)**
-  ![Hàng quán vỉa hè](Screenshots/Screenshot%202026-05-20%20085247.png)
-  *Chi tiết các tiệm kinh doanh dịch vụ mang bản sắc Việt Nam như quán "Phở Anh Hai" và tiệm cắt tóc "BHGaming".*
+* **Cơ chế di chuyển cùng xe máy (`DiChuyenVoiXe.png`)**
+  ![Di chuyển với xe](Screenshot/DiChuyenVoiXe.png)
+  *Hình ảnh nhân vật điều khiển phương tiện di chuyển linh hoạt trên lòng đường và vỉa hè.*
 
-* **Khu vực tập kết rác thải và chướng ngại vật (`Screenshot 2026-05-20 085324.png`)**
-  ![Chướng ngại vật trên phố](Screenshots/Screenshot%202026-05-20%20085324.png)
-  *Mô tả các thùng rác công cộng, các túi rác tập kết bên lề đường tạo thành các vật cản thử thách tay lái của Shipper.*
-
----
-
-### 3. Bản đồ Tổng thể & Kiến trúc Tâm linh Văn hóa
-* **Bản đồ tổng quan khu di tích Đình - Chùa cổ kính (`Screenshot 2026-05-20 085403.png`)**
-  ![Khu di tích cổ kính](Screenshot%202026-05-20%20085403.png)
-  *Góc nhìn từ trên xuống bao quát toàn bộ kiến trúc tâm linh gồm mái ngói đỏ đan xen, sân gạch, lư hương trung tâm và ao sen.*
-
-* **Mở rộng bản đồ - Liên kết các khu vực liền kề (`Screenshot 2026-05-20 085410.png`)**
-  ![Bản đồ mở rộng](Screenshots/Screenshot%202026-05-20%20085410.png)
-  *Hình ảnh thể hiện sự kết nối giữa khu phố hiện đại và khu di tích lịch sử thông qua các lối đi bằng gạch chi tiết.*
-
-* **Quy hoạch tổng thể Grid Tilemap trên Unity (`Screenshot 2026-05-20 085427.png`)**
-  ![Quy hoạch tổng thể](Screenshots/Screenshot%202026-05-20%20085427.png)
-  *Bản vẽ thiết kế hệ thống lưới ô xám trống đang trong quá trình fill kín các tòa nhà và đường sá để mở rộng quy mô map bự.*
+* **Hệ thống tương tác và trò chuyện với NPC (`NoiChuyenVoiNPC.png`)**
+  ![Nói chuyện với NPC](Screenshot/NoiChuyenVoiNPC.png)
+  *Hộp thoại xuất hiện khi Shipper tiếp cận các NPC trên đường phố để nhận hoặc giao đơn hàng.*
 
 ---
 
-### 4. Hệ thống Tài nguyên & Hoạt họa Nhân vật (Assets)
-* **Bảng Asset nhân vật và NPC Việt Nam (`Screenshot 2026-05-20 085800.png`)**
-  ![Spritesheet NPC](Screenshots/Screenshot%202026-05-20%20085800.png)
-  *Tập hợp các Sprite Sheet Pixel Art của các NPC đặc trưng: người bán bánh mì, cô bán hàng tạp hóa nón lá, người dân đi bộ...*
+### 3. Hệ thống Quản lý & Cửa hàng (UI/UX)
+* **Giao diện túi đồ của người chơi (`GiaoDienInventory.png`)**
+  ![Giao diện Túi đồ](Screenshot/GiaoDienInventory.png)
+  *Nơi lưu trữ và hiển thị các vật phẩm cứu trợ mà Shipper đang sở hữu.*
 
-* **Bảng Asset vật phẩm và Đơn vị Tiền tệ (`Screenshot 2026-05-20 085840.png`)**
-  ![Vật phẩm và Tiền tệ](Screenshots/Screenshot%202026-05-20%20085840.png)
-  *Thiết kế chi tiết các item tiền polymer Việt Nam, các cọc tiền và tiền xu cổ dùng cho hệ thống giao dịch, nâng cấp xe trong cửa hàng.*
+* **Hệ thống nhiệm vụ và đơn hàng (`GiaoDienQuest.png`)**
+  ![Giao diện Nhiệm vụ](Screenshot/GiaoDienQuest.png)
+  *Bảng hiển thị thông tin chi tiết các đơn hàng cần vận chuyển và thanh mốc thời gian.*
+
+* **Cửa hàng giao dịch và nâng cấp (`GiaoDienShop.png`)**
+  ![Giao diện Cửa hàng](Screenshot/GiaoDienShop.png)
+  *Giao diện mua sắm các vật phẩm bổ trợ và nâng cấp trang thiết bị cho phương tiện.*
+
+---
+
+### 4. Bản đồ Tổng thể (MiniMap)
+* **Bản đồ tổng quan khu vực (`MiniMapTinh.png`)**
+  ![Bản đồ tổng quan](Screenshot/MiniMapTinh.png)
+  *Bản vẽ quy hoạch tổng thể toàn bộ các khu vực liền kề trong game bao gồm khu dân cư và các khu di tích.*
 ---
 
 ## 🎮 Hướng dẫn điều khiển (Cách chơi)
