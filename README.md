@@ -85,7 +85,7 @@ Hệ thống mã nguồn và cấu trúc asset của trò chơi được xây d�
 ### 3. Bản đồ Tổng thể Quy hoạch (MiniMap)
 * **Bản đồ tổng quan toàn bộ khu vực (`MiniMapTinh.png`)**
   ![Bản đồ tổng quan](Screenshot/MiniMapTinh.png)
-  *Bản vẽ thiết kế quy hoạch chi tiết kết nối đồng bộ giữa khu đô thị hiện đại sầm uất và khu di tích kiến trúc cổ kính.*---
+  *Bản vẽ thiết kế quy hoạch chi tiết kết nối đồng bộ giữa khu đô thị hiện đại sầm uất và khu di tích kiến trúc cổ kính.*
 
 ---
 
