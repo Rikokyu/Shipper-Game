@@ -36,55 +36,57 @@ Hệ thống mã nguồn và cấu trúc asset của trò chơi được xây d�
 
 Để người xem dễ dàng hình dung quy mô và các tính năng của dự án, dưới đây là toàn bộ danh sách hình ảnh thực tế được trích xuất trực tiếp từ bản build của trò chơi:
 
-### 1. Giao diện & Hệ thống Menu điều khiển
-* **Màn hình MainMenu (`ManHinhMainMenu.png`)**
+### 1. Giao diện & Hệ thống Menu điều khiển (MainMenu & UI)
+* **Màn hình Menu chính (`ManHinhMainMenu.png`)**
   ![Màn hình MainMenu](Screenshot/ManHinhMainMenu.png)
-  *Giao diện chính của trò chơi với các tùy chọn Chơi, Cài đặt và Thoát.*
+  *Giao diện khởi đầu của trò chơi với thiết kế pixel art đặc trưng, bao gồm các tùy chọn: Chơi, Cài đặt và Thoát.*
 
-* **Màn hình cài đặt hệ thống (`GiaoDienSettings.png`)**
-  ![Màn hình Cài đặt](Screenshot/GiaoDienSettings.png)
-  *Bảng tùy chỉnh cấu hình, âm lượng và các thiết lập trong trò chơi.*
-
-* **Bảng hướng dẫn cách chơi và nút bấm tương tác (`HuongDanChoi.png`)**
+* **Bảng hướng dẫn cách chơi và phím bấm tương tác (`HuongDanChoi.png`)**
   ![Hướng dẫn cách chơi](Screenshot/HuongDanChoi.png)
-  *Giao diện hướng dẫn chi tiết các phím chức năng điều khiển Shipper (WASD, Space, E, F, Tab).*
+  *Giao diện Pop-up trực quan hướng dẫn chi tiết các phím chức năng điều khiển Shipper (WASD di chuyển, E tương tác, F lên/xuống xe, Tab mở menu).*
+
+* **Bảng hướng dẫn cách chơi và phím bấm tương tác (`ThanhVienVaPhanCong.png`)**
+  ![Hướng dẫn cách chơi](Screenshot/ThanhVienVaPhanCong.png)
+  *Thành viên của đề tài và phân công nhiệm vụ của các thành viên trong đề tài này.*
+
+* **Bảng cấu hình và cài đặt hệ thống (`GiaoDienSettings.png`)**
+  ![Màn hình Cài đặt](Screenshot/GiaoDienSettings.png)
+  *Bảng tùy chỉnh hiển thị và âm lượng trong game, tích hợp nút lưu cấu hình (Save) hoặc quay lại Menu chính (Main Menu).*
+
+* **Giao diện túi đồ của nhân vật (`GiaoDienInventory.png`)**
+  ![Giao diện Túi đồ](Screenshot/GiaoDienInventory.png)
+  *Hệ thống các ô lưới quản lý và hiển thị toàn bộ danh sách các vật phẩm cứu trợ mà Shipper đang sở hữu.*
+
+* **Hệ thống theo dõi đơn hàng và nhiệm vụ (`GiaoDienQuest.png`)**
+  ![Giao diện Nhiệm vụ](Screenshot/GiaoDienQuest.png)
+  *Bảng thông tin hiển thị danh sách các đơn hàng nhận từ NPC, địa điểm giao nhận và thanh tiến trình thời gian chạy đua.*
+
+* **Cửa hàng giao dịch và nâng cấp phương tiện (`GiaoDienShop.png`)**
+  ![Giao diện Cửa hàng](Screenshot/GiaoDienShop.png)
+  *Giao diện tương tác mua sắm các vật phẩm bổ trợ và nâng cấp trang thiết bị cho xe máy để tăng tốc độ di chuyển.*
 
 ---
 
-### 2. Thiết kế Bản đồ Đô thị & Cơ chế Gameplay
-* **Màn hình vào game - Giao lộ đường phố (`ManHinhJoinGame.png`)**
+### 2. Thiết kế Bản đồ & Cơ chế Gameplay thực tế
+* **Màn hình bắt đầu vào game - Giao lộ đường phố (`ManHinhJoinGame.png`)**
   ![Màn hình Join Game](Screenshot/ManHinhJoinGame.png)
-  *Góc nhìn từ trên xuống khi bắt đầu vào màn chơi chính với hệ thống đường sá đô thị.*
+  *Góc nhìn từ trên xuống (Top-down) bao quát khu vực xuất phát của người chơi với hệ thống đường sá đô thị Việt Nam.*
 
-* **Cơ chế di chuyển cùng xe máy (`DiChuyenVoiXe.png`)**
+* **Cơ chế điều khiển và di chuyển cùng xe máy (`DiChuyenVoiXe.png`)**
   ![Di chuyển với xe](Screenshot/DiChuyenVoiXe.png)
-  *Hình ảnh nhân vật điều khiển phương tiện di chuyển linh hoạt trên lòng đường và vỉa hè.*
+  *Hình ảnh Shipper vận hành phương tiện luồn lách mượt mà qua các góc phố, vỉa hè để né tránh chướng ngại vật.*
 
 * **Hệ thống tương tác và trò chuyện với NPC (`NoiChuyenVoiNPC.png`)**
   ![Nói chuyện với NPC](Screenshot/NoiChuyenVoiNPC.png)
-  *Hộp thoại xuất hiện khi Shipper tiếp cận các NPC trên đường phố để nhận hoặc giao đơn hàng.*
+  *Hộp thoại hội thoại (Dialogue) xuất hiện trực quan khi Shipper tiếp cận người dân trên phố để nhận đơn hàng hoặc trả hàng.*
 
 ---
 
-### 3. Hệ thống Quản lý & Cửa hàng (UI/UX)
-* **Giao diện túi đồ của người chơi (`GiaoDienInventory.png`)**
-  ![Giao diện Túi đồ](Screenshot/GiaoDienInventory.png)
-  *Nơi lưu trữ và hiển thị các vật phẩm cứu trợ mà Shipper đang sở hữu.*
-
-* **Hệ thống nhiệm vụ và đơn hàng (`GiaoDienQuest.png`)**
-  ![Giao diện Nhiệm vụ](Screenshot/GiaoDienQuest.png)
-  *Bảng hiển thị thông tin chi tiết các đơn hàng cần vận chuyển và thanh mốc thời gian.*
-
-* **Cửa hàng giao dịch và nâng cấp (`GiaoDienShop.png`)**
-  ![Giao diện Cửa hàng](Screenshot/GiaoDienShop.png)
-  *Giao diện mua sắm các vật phẩm bổ trợ và nâng cấp trang thiết bị cho phương tiện.*
-
----
-
-### 4. Bản đồ Tổng thể (MiniMap)
-* **Bản đồ tổng quan khu vực (`MiniMapTinh.png`)**
+### 3. Bản đồ Tổng thể Quy hoạch (MiniMap)
+* **Bản đồ tổng quan toàn bộ khu vực (`MiniMapTinh.png`)**
   ![Bản đồ tổng quan](Screenshot/MiniMapTinh.png)
-  *Bản vẽ quy hoạch tổng thể toàn bộ các khu vực liền kề trong game bao gồm khu dân cư và các khu di tích.*
+  *Bản vẽ thiết kế quy hoạch chi tiết kết nối đồng bộ giữa khu đô thị hiện đại sầm uất và khu di tích kiến trúc cổ kính.*---
+
 ---
 
 ## 🎮 Hướng dẫn điều khiển (Cách chơi)
